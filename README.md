@@ -1,2 +1,14 @@
 # sportcn-hth-guide
-HTML page archive and documentation
+
+独立 HTML 页面集合
+
+这个仓库用于保存自动发布的独立 HTML 页面。
+
+## 文件存档
+
+- 页面文件由发布任务写入
+- README 作为仓库说明保留
+
+## 维护方式
+
+发布程序会按配置写入文件，手动修改时请保留现有结构。
